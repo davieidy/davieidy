@@ -1,16 +1,16 @@
-## Hi there 👋
+=## Olá 👋
 
 <!--
-**davieidy/davieidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**davieidy/davieidy** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando em ...rebobinador, de motor elétrico, e manutensões em gerais. 
+- 🌱 Atualmente estou aprendendo..programação
+- 👯 Procuro colaborar em ...tudo que eu puder 
+- 🤔 Estou procurando ajuda com ...nada
+- 💬 Pergunte-me sobre ...o que quiser
+- 📫 Como entrar em contato comigo: ...na escola
+- 😄 Pronomes: ...nao tem
+- ⚡ Curiosidade: ...sou leal
 -->
