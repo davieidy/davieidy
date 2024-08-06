@@ -1,16 +1,22 @@
-=## Olá 👋
+=## Olá  sou o davi👋
+estudo na gregrorio
+estou aprendendo sobre computação 
+e sou louco pelo corinthans 
 
-<!--
-**davieidy/davieidy** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
 
-Aqui estão algumas ideias para você começar:
+Rema, rema, remador
+Pau no cu do tricolor
+Tricolor é vigarista
+Pau na bunda do santista
+Se o Santista não corresse
+Pau no cu dos palmeirenses
 
-- 🔭 Atualmente estou trabalhando em ...rebobinador, de motor elétrico, e manutensões em gerais. 
-- 🌱 Atualmente estou aprendendo..programação
-- 👯 Procuro colaborar em ...tudo que eu puder 
-- 🤔 Estou procurando ajuda com ...nada
-- 💬 Pergunte-me sobre ...o que quiser
-- 📫 Como entrar em contato comigo: ...na escola
-- 😄 Pronomes: ...nao tem
-- ⚡ Curiosidade: ...sou leal
--->
+Se o Corinthians não ganhar, olê, olê, olá
+(O quê? O quê?) O pau vai quebrar
+Se o Corinthians não ganhar, olê, olê, olá
+(O quê? O quê?) O pau vai quebrar
+
+![corinthans](https://media1.tenor.com/m/MCBkr6dWLkUAAAAd/corinthians-rodrigo-garro.gif)
+
+![corinthnas](https://media1.tenor.com/m/g0kMau3yfwUAAAAC/renato-augusto-melhor-meia-do-brasil-renato-augusto-melhor-meio-campista-do-brasil.gif)
+![corinthans](https://media1.tenor.com/m/aWfV6L4DMuQAAAAC/renato-augusto.gif)
